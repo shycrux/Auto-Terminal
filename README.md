@@ -9,4 +9,5 @@ Timeout- How long a terminal should take before the mod retries (default 500)
 
 Also has some wither esp and stonk delay i was working on <333
 
+standard chatriggers module install
 /f7hc for the settings
